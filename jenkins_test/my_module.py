@@ -28,3 +28,6 @@ class ClassB(object):
 
     def method_b(self):
         return "method_b"
+
+    def method_c(self):
+        return "method_c"
