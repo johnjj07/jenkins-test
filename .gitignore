@@ -1,0 +1,7 @@
+.python-version
+/*.egg-info
+/dist
+*.pyc
+/.idea
+*.log
+*.iml
